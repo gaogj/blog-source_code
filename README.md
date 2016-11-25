@@ -1,2 +1,2 @@
 # Blog 源码 
-http://gaogj.win
+URL: http://gaogj.win
